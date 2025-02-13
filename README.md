@@ -1,19 +1,23 @@
-# Leonardo de Albuquerque Pereira
-
-Desenvolvedor Web apaixonado por criar soluções inovadoras e eficientes.
-
 ## Sobre Mim
 
-Sou um profissional dedicado ao desenvolvimento web, com experiência em JavaScript, TypeScript, Git/GitHub, Python Node e SQL. Busco sempre aprimorar minhas habilidades e explorar novas tecnologias para oferecer o melhor resultado em meus projetos.
+Sou Leonardo de Albuquerque Pereira, um desenvolvedor web apaixonado por criar soluções digitais inovadoras e eficientes. Neste site, compartilho meus projetos, experiências e conhecimentos sobre desenvolvimento web.
+
+## Projetos
+
+* [Projeto 1](https://github.com/leleo2009/My-First-Landing-Page): Minhha primeira landing-Page, com um visual bem inovador!
+* [Projeto 2](leleo2009/JS-BookStore): Loja de livro em JavaScript!
+* [Projeto 3](Project-finances-with-JS): Projeto para controle de Finanças!
 
 ## Habilidades
 
+* HTML
+* CSS
 * JavaScript
-* TypeScript
-* Git/GitHub
-* Node
 * Python
 * SQL
+* Node
+* Git
+* GitHub
 
 ## Interesses
 
